@@ -11,4 +11,4 @@ This challenge has 1 project called Mars-challenge and contains two starter code
 These projects have been run in a Windows 11 GitBash environment, using Python 3.10.13 together with Jupyter Lab as the editor
 
 ### Executing Homework Challenge Requirements:
-Please see part_1_mars_news.ipynb and part_2_mars_news.ipynb for the scripts which perform all code requirements of the project..  The resulting output csv file is called mars_df.csv cities.csv.
+Please see part_1_mars_news.ipynb and part_2_mars_news.ipynb for the scripts which perform all code requirements of the project..  The resulting output csv file is called mars_df.csv.
